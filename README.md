@@ -8,3 +8,10 @@ are familiar with the software they use.
 ## Pre-requisites
 
 - Python 3.5.2 (will be made more general later on.)
+
+## Components
+
+- **ldc2csv.py**: takes as command line input a text transcript `file.txt`
+                  and outputs `file.csv` where the fields are now 1 column
+                  each
+
